@@ -10,7 +10,7 @@ Web Aplication that consumes The New York Times Api.
 
 [React Bootstrap](https://react-bootstrap.github.io/)
 
-### Requirements:
+## Requirements:
 
 -   Node >= 8.10
 -   [New York Times API KEY](https://developer.nytimes.com/accounts/login)

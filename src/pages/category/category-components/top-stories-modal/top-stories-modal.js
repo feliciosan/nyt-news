@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 
 import { Modal, Button, Row, Col, Image } from 'react-bootstrap';

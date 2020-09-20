@@ -2,7 +2,7 @@ import React, { useContext, useState } from 'react';
 import TopStoriesListItem from '../top-stories-list-item/top-stories-list-item';
 import TopStoriesModal from '../top-stories-modal/top-stories-modal';
 
-import { Modal, Button, Row, Col, Image } from 'react-bootstrap';
+import { Row, Col } from 'react-bootstrap';
 import { CategoryContext } from '../../../../contexts/category/category';
 
 const TopStoriesList = () => {
